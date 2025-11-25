@@ -47,6 +47,11 @@ session-*
 # Logs
 *.log
 
+# Database
+analytics.db
+*.db
+*.db-journal
+
 # OS
 .DS_Store
 Thumbs.db
